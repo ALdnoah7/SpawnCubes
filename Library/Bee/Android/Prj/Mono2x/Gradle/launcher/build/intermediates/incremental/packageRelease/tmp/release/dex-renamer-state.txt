@@ -1,0 +1,4 @@
+#Fri Oct 14 12:47:44 YEKT 2022
+base.0=E\:\\UnityProjects\\SpawnCubes\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
